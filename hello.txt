@@ -1,2 +1,1 @@
-"Hola Johan" 
-"Cambio desde MAIN master" 
+"Hola Johan - Conflicto Resuelto: Main y Features unidos" 
